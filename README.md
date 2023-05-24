@@ -14,5 +14,6 @@ MQTT:
         mosquitto_pub -h localhost -p 1883 -t request -m "OK"
 
 # SERVER:
-File sevre.js -> ghi file status 
-File tool_demo.js -> duyet doc file database
+File sevre.js -> ghi file status:
+
+File tool_demo.js -> duyet doc file database:
