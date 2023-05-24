@@ -1,0 +1,204 @@
+{
+    "category": "TV",
+    "brand": "SKYWORTH",
+    "model": "147",
+    "type": 1,
+    "version": "1.0",
+    "create_date": 1683877816329,
+    "protocol": "SKYWORTH",
+    "map_code": [
+        {
+            "key": "POWER",
+            "name": "POWER",
+            "code": "+4550-4500+600-500C-1600C-1650CeC-450+650gHgCdCgHeCf+550eH-400+700gHgCdCdCdCeCeCdCdCdIiCeCeCdCdCeCeCeCeH",
+            "state": 1
+        },
+        {
+            "key": "MENU",
+            "name": "MENU",
+            "code": "+4550-4500+650-450+600-1650E-1600EgE-400+700hIdCdC-350IgCgEgE-150+950-500EdEdCgE-550NnNmEgEmEmEmEmEgEgEgEmEgEfEgE",
+            "state": 1
+        },
+        {
+            "key": "BACK",
+            "name": "BACK",
+            "code": "+4550a+600-450+650-1600BeB-1650B-350+700-500BiB-400HcDeBeBf+550iBi+750-300DiBeBeBiBeBeBkKeDiKiBiBeBiBiBeBiBeD",
+            "state": 1
+        },
+        {
+            "key": "HOME",
+            "name": "HOME",
+            "code": "+4600-4450+650-450C-1600+600eFeF-500FgFgFgFg+550-1650FeFeCdFgFgFgFeFgHgFiFeFeFeFgFgFeCeFdCdCdCdFeC",
+            "state": 1
+        },
+        {
+            "key": "VOLUME_UP",
+            "name": "VOLUME UP",
+            "code": "+4550-4500+600-450+650-1600CfEfC-500CgCg+550gCgCfCfE-1550EgHhHgCgCgCdEfCgCfCgCdEdEfCfCgCfCgCfCfC-1650H",
+            "state": 1
+        },
+        {
+            "key": "VOLUME_DOWN",
+            "name": "VOLUME DOWN",
+            "code": "+5450-4550+700-450+600-1600E-1650+550gE-500EiEd+650dEiEfEgHgEiEdJdJdJ-1550JdJkJdJfEdJdJdEiEfJdEfJdEfJfEfE",
+            "state": 1
+        },
+        {
+            "key": "CHANNEL_UP",
+            "name": "CHANNEL UP",
+            "code": "+4550-4500+600-500C-1600CeC-1650Cd+550d+650-450HiCdCeH-1550HeCdGdCdCdCdCeCdCdCeCdCdGgGfCdGfCfGdCfGfGfG",
+            "state": 1
+        },
+        {
+            "key": "CHANNEL_DOWN",
+            "name": "CHANNEL DOWN",
+            "code": "+4550-4500+600-500C-1600CeCe+650d+550dCdCdCdG-1650CeCeCdF-450CdCdCeCeCdCdCeCdCdCdGdCdChGhCdGhChGhG",
+            "state": 1
+        },
+        {
+            "key": "UP",
+            "name": "UP",
+            "code": "+4550-4500+650-350+700-1650+600-1600GhG-500GiGiG-450Ci+550hChGhGiG-400EiG-200+1100-250GhCiKiGiGiGhGiKfGiGhGhGhChGiGhG",
+            "state": 1
+        },
+        {
+            "key": "DOWN",
+            "name": "DOWN",
+            "code": "+4550-4500+600-500C-1600CeCe+650d+550gGdCdCdCeCeCeCgC-450CdCdCeCeCdCdCdCdCeCdCdCdCeCeCeFeChFeC",
+            "state": 1
+        },
+        {
+            "key": "LEFT",
+            "name": "LEFT",
+            "code": "+4600-4500+600-450C-1650C-1600+650f+550d+700dC-400I-500GdG-1550GfCfCjI-250+850kCkHkCkCfChHkCkCfCkCfCfGdGlGfCfCkCfC",
+            "state": 1
+        },
+        {
+            "key": "RIGHT",
+            "name": "RIGHT",
+            "code": "+4550-4500+650-450+600-1650E-1600Eg+750-300C-500EjEjEj+550gEfEgEjEjEjEjKgCjKfKjCdEjEgEjEjEgCdEgCgEgEjEgE",
+            "state": 1
+        },
+        {
+            "key": "0",
+            "name": "0",
+            "code": "+4600-4500+600-500C-1650C-1600CfCdC-450+650gHgCgHeC-1550HfCdCdC-400+700gCdCdCdCd+550lLdCdCdCfCfCfCeCfCfCfHfC",
+            "state": 1
+        },
+        {
+            "key": "1",
+            "name": "1",
+            "code": "+4550-4500+600-550D-1600+650eCeC-500CgC-450FhCgCeFeD-1650CgCgChCgCeFhCgCgCgCgDgCgCgCiDiDiCiDiDiDiC",
+            "state": 1
+        },
+        {
+            "key": "2",
+            "name": "2",
+            "code": "+4600-4500+600-450+650-1600CfC-1650C-400E-500CdEdEdEfCfCgCdCiCh+800hCiCfCiCiCi+550iCiCiCfCiCfCfCfEfCfCfC",
+            "state": 1
+        },
+        {
+            "key": "3",
+            "name": "3",
+            "code": "+4650-4450+600-500C-1600CeC-1650+550gGdCdCdCdCeCeCe+650-450HiHiHiCeCeHiHiCdCdCiHiHiHiCeHeCeCeCeHeC",
+            "state": 1
+        },
+        {
+            "key": "4",
+            "name": "4",
+            "code": "+4550-4450+650-450C-1600+600eFeF-400+700-300+800-250+850dCdCeFeFeF-500FmFmFm+550nFmNeFnNmFmFmNnFeFeFmFeFeF-1650FeFeC",
+            "state": 1
+        },
+        {
+            "key": "5",
+            "name": "5",
+            "code": "+4550-4500+600-500C-1600Ce+650-1550C-550CdHdCdCdH-1650CeCeCdF-450CdCdCeCdCeCdCdCdCjCdCdCeCdCeCiHiCiHiH",
+            "state": 1
+        },
+        {
+            "key": "6",
+            "name": "6",
+            "code": "+4550-4600+600-500C-1600C-1650C-1550+650-450+1750iCdCdCeCeHgHdCd+550dCdCdCeCeCdCdCdCdKdCfKdCdHgCfCeCeHgH",
+            "state": 1
+        },
+        {
+            "key": "7",
+            "name": "7",
+            "code": "+4550-4500+600-550D-1600C-1650CeC-500CgC-450+650hIhCeCfCeCgDgIhCgCeCfDfCgCgDgCgCgCgCgCgDfCfDfDfDfC",
+            "state": 1
+        },
+        {
+            "key": "8",
+            "name": "8",
+            "code": "+4550a+600-450+650-1600BeBeDcB-500BfBfBcDeBeBeDcBfBcDfBcDf+550fBeDfGfBfBfBeBeBeDfB-1550DeBeBeB",
+            "state": 1
+        },
+        {
+            "key": "9",
+            "name": "9",
+            "code": "+4550-4500+650-500+600-1600EfCfE-350+750dEd+550dEdEfEf+700-1550EdEdIdEdEfEdEdEfEdEdEdE-450ClEfE-1650EdEfEfEfEmI",
+            "state": 1
+        },
+        {
+            "key": "MUTE",
+            "name": "MUTE",
+            "code": "+4500-4550+550-500+650-1600+600fGfE-450G-400+700dGdGdGfGfGfGdGdGdCcC-1650GdCkGfGdGdGhEhGdE-1550EhEhGfGkCkGfG",
+            "state": 1
+        },
+        {
+            "key": "INPUT",
+            "name": "INPUT",
+            "code": "+4600-4450+650-450C-1600+600eFeFdC-500FgFgFg+550-1650HiFeFgFgHhHgFiHiFeC-1550CdFgFgFgFgFdCdFgFeFiHiFiH",
+            "state": 1
+        },
+        {
+            "key": "INFO",
+            "name": "INFO",
+            "code": "+4600-4450+650-500+600-1600EfEfEdEdEdEdEdEfEfC-1550C-450ChEdEdEdEhE-1650Ed+550dEiJiEdEfEiJdEiJiJdEdEiJ",
+            "state": 1
+        },
+        {
+            "key": "LAST",
+            "name": "LAST",
+            "code": "+4600-4500+550cC-1650Cd+600-1600E-500EgEgE-450+650hIfEfEfEgEgCgEgEdCdEgCdEgEgCgEgEgEgEdCgEdCdCdC-1700C",
+            "state": 1
+        },
+        {
+            "key": "DISPLAY",
+            "name": "DISPLAY",
+            "code": "+4550a+600-450B-1650B-1600BeB-500BfBfBfBf+550dBeBeBfBfBfBfGgGdGdGgGdBfGfBfBdBc+650cHeBcHeBeBdG",
+            "state": 1
+        },
+        {
+            "key": "RED",
+            "name": "RED",
+            "code": "+4500-4550+600-500+550-1650C-1600CfEeEdCdCdCdEfCgCfEeEdCdCdEeEfCdEeEdCfCgCdCgCdCgCfCgC-450+650hCfC",
+            "state": 1
+        },
+        {
+            "key": "GREEN",
+            "name": "GREEN",
+            "code": "+4550a+600-500B-1600B-1650BdB-450+650-400+700hGhI-250+850dBe+550eBcBfBlLcBeLeBcLlLcBeLeLcBcBcBeBdLeBcLcBeL",
+            "state": 1
+        },
+        {
+            "key": "BLUE",
+            "name": "BLUE",
+            "code": "+5000-4500+550cC-1650Cd+600-1600E-500CcCcCcCgEdCdCdEgEgE-450+650hIfEhIfEhIhIfEfEgEhIfEhIfEfEgEgEfE",
+            "state": 1
+        },
+        {
+            "key": "YELLOW",
+            "name": "YELLOW",
+            "code": "+4550-4500+600-500C-1600C-1650CeC-450+650gHgCdCgHeCfCeC-150+900-550CgCdCdCdCeCdCdKfCeCdCeCfKkKeCfCdCgHeC",
+            "state": 1
+        },
+        {
+            "key": "GUIDE",
+            "name": "GUIDE",
+            "code": "+4550a+600-500+550-1650DeBeDcBcBcDdDdDeDeB-1600BcBcBcBcB-450+650gBcBcBcBfBfBcBeDeBfBfBeDcBcBeD",
+            "state": 1
+        }
+    ],
+    "_id": "MFHz032hwdT7Nfgr"
+}
