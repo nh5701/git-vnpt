@@ -164,7 +164,7 @@ async function funReadFile(dataFile, a, tem, i) {
 }
 
 function writeDataFileStatus(dataWriteFile, dataFile, dataStatus) {
-    let filePath = path.join(folderPath, dataFile); // Đường dẫn của tệp tin mới    let filePath = path.join(folderPath, dataFile); // Đường dẫn của tệp tin mới
+    let filePath = path.join(folderPath, dataFile); // Đường dẫn của tệp tin mới 
 
     return new Promise((resolve, reject) => {
 
